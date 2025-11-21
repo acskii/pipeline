@@ -1,4 +1,4 @@
-package dev.acskii.test;
+package dev.acskii.teddies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
